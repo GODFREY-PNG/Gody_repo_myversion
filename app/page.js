@@ -158,8 +158,7 @@ export default function Home() {
               </h1>
               
               <p className="text-lg text-gray-700 dark:text-gray-300 mb-8 leading-relaxed max-w-2xl">
-                Specializing in predictive modeling, financial risk analytics, customer behavior analysis, 
-                and AI-driven solutions. I transform complex data into actionable business insights.
+               Specializing in applied data science, predictive modeling, and decision support systems to turn complex data into actionable insights for high-stakes business and operational decisions.
               </p>
               
               <div className="flex flex-wrap gap-4">
@@ -293,7 +292,7 @@ export default function Home() {
               Data Science Projects
             </h2>
             <p className="text-lg text-gray-700 dark:text-gray-300 max-w-3xl mx-auto">
-              Real-world machine learning solutions in finance, customer analytics, and risk assessment
+              Real-world data science solutions translating complex data into predictive insights and decision support across healthcare, finance, customer behavior, and risk management.
             </p>
           </motion.div>
 
@@ -324,7 +323,7 @@ export default function Home() {
                 </h3>
                 
                 <p className="text-gray-700 dark:text-gray-300 mb-4 text-sm leading-relaxed">
-                  ML model achieving 85% accuracy in predicting bankruptcy risk. Optimized for high recall to minimize credit exposure and enable proactive risk management.
+                  ML model achieving 85% accuracy in predicting bankruptcy risk. Optimized for high recall to minimize credit exposure and enabled proactive risk management and early identification of high risk entities.
                 </p>
                 
                 <div className="flex flex-wrap gap-2 mb-4">
@@ -366,7 +365,8 @@ export default function Home() {
                 </h3>
                 
                 <p className="text-gray-700 dark:text-gray-300 mb-4 text-sm leading-relaxed">
-                  K-Means clustering with PCA to identify distinct customer segments for targeted marketing campaigns. Achieved Silhouette score of 0.62.
+                  K-Means clustering and PCA to identify distinct customer segments for targeted marketing campaigns. 
+                    Provided actionable customer segments to support targeted marketing strategies and improve customer engagement efficiency.
                 </p>
                 
                 <div className="flex flex-wrap gap-2 mb-4">
@@ -409,6 +409,8 @@ export default function Home() {
                 
                 <p className="text-gray-700 dark:text-gray-300 mb-4 text-sm leading-relaxed">
                   GARCH-based volatility modeling with FastAPI backend. Real-time market risk assessment using historical price data.
+                    Supported real-time market risk monitoring by forecasting volatility trends to inform data-driven investment and risk management decisions.
+                    
                 </p>
                 
                 <div className="flex flex-wrap gap-2 mb-4">
@@ -446,11 +448,12 @@ export default function Home() {
               
               <div className="p-6">
                 <h3 className="text-xl font-bold mb-2 text-black dark:text-white">
-                  Customer Churn Prediction
+                  Customer Retention Risk Modeling
                 </h3>
                 
                 <p className="text-gray-700 dark:text-gray-300 mb-4 text-sm leading-relaxed">
-                  Logistic regression model identifying at-risk customers with 0.89 ROC-AUC. Features odds ratio analysis for interpretable retention strategies.
+                  Logistic regression model identifying at-risk customers with 0.89 ROC-AUC.
+                    Interpretable feature importances which improved customer retention planning by identifying at-risk customers and enabling targeted intervention strategies.
                 </p>
                 
                 <div className="flex flex-wrap gap-2 mb-4">
@@ -489,11 +492,12 @@ export default function Home() {
                 
                 <div className="p-6">
                   <h3 className="text-xl font-bold mb-2 text-black dark:text-white">
-                    Insurance Risk Evaluation App
+                    Healthcare Cost Risk Prediction System
                   </h3>
                   
                   <p className="text-gray-700 dark:text-gray-300 mb-4 text-sm leading-relaxed">
-                    Interactive Streamlit application for predicting insurance costs using RandomForest regression. Deployed on cloud with real-time predictions.
+                    Interactive Streamlit application for predicting insurance costs using RandomForest regression. Predicts patient insurance costs to support pricing, underwriting, and preventive care planning.
+                      Enhanced insurance pricing and risk evaluation by delivering real-time cost predictions through an interactive decision-support application
                   </p>
                   
                   <div className="flex flex-wrap gap-2 mb-4">
